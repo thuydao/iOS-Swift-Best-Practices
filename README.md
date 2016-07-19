@@ -17,7 +17,7 @@ To keep all those hundreds of source files from ending up in the same directory,
     ├─ 03-Helpers (this is common or util files of the project)
     ├─ 04-Models 
     ├─ 05-Resources (image, DB file, HTML, CSS, JS, StoryBoard...)
-    ├─ 06-BussinessController (control of Bussiness/logic)
+    ├─ 06-BusinessController (control of Bussiness/logic)
     ├─ 07-ViewControllers (View & control of view)
 
 
