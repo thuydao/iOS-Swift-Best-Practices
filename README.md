@@ -8,8 +8,9 @@
 
 
 
-1. Folder Structure
+### Project Structure
 
+To keep all those hundreds of source files from ending up in the same directory, it's a good idea to set up some folder structure depending on your architecture. For instance, you can use the following:
 
     ├─ 01-App
     ├─ 02-Libs (3rd ..)
